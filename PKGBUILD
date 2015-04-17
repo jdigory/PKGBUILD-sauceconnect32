@@ -7,7 +7,7 @@ arch=('i686')
 url='https://docs.saucelabs.com/reference/sauce-connect/'
 license=('unknown')
 source=("https://saucelabs.com/downloads/sc-${pkgver}-linux32.tar.gz")
-md5sums=('9afc50caf7a14064a1d70ffd91c8ad86')
+sha1sums=('b9724f63b727f3c49e7367970b6ea5e4a7bb697d')
 
 package() {
   cd "${srcdir}/sc-${pkgver}-linux32/"
