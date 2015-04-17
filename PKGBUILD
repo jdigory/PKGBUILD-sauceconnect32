@@ -1,6 +1,6 @@
 # Maintainer: Josh Lavin <arch jlavin com>
 pkgname=sauceconnect32
-pkgver=4.3.5
+pkgver=4.3.8
 pkgrel=1
 pkgdesc='32-bit utility for Sauce Labs testing'
 arch=('i686')
